@@ -1,0 +1,6 @@
+[cache]
+    dir = ../../external_cache
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://mlops190110030assignment2/datastore
